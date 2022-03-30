@@ -25,6 +25,14 @@ Also, in that file you can see the grammar diagrams (for the grammar parser), th
 but was very useful for understand the lexems and through that create the regex expresions) and a video where explain the code and make video that explains the code 
 and I test the code.
 
+## How to use it?
+
+It is easy to use, run the file *"evidencia1.py"*, the program will run, first it will ask you for the file to play, give it a name (with or without the ".txt" extension), *take care that the file must be in the same folder as the script, otherwise the program will never find the file you are trying to play.*
+
+Once the program reads the file, it will start the lexical analysis and before the grammar analysis, if the program finds an error in your "code", it will warn you and tell you which line the error is on. 💬
+
+If all is well, the program will play the song you encoded. 🎵
+
 ## Limitations 💢
 
 Program limitations
