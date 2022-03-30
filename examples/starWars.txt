@@ -1,0 +1,55 @@
+### Dark veader
+#Estos arrays son el equivalente a las notas musicales que puede leer el programa
+# imnote = [
+#     10, 10, 10, 6, 1,
+#     10, 6, 1, 10,
+#     5, 5, 5, 6, 1,
+#     9, 6, 1, 10,
+#     10, 10, 10, 10, 9, 8,
+#     7, 6, 8, 12, 4, 3, 2,
+#     1, 12, 1, 6, 9, 6, 9
+# ]
+
+# imoctave = [
+#     4, 4, 4, 4, 5,
+#     4, 4, 5, 4,
+#     5, 5, 5, 5, 5,
+#     4, 4, 5, 4,
+#     5, 4, 4, 5, 5, 5,
+#     5, 5, 5, 4, 5, 5, 5,
+#     5, 4, 5, 4, 4, 4, 4,
+# ]
+
+# imlong = [
+#     500, 500, 500, 250, 250,
+#     500, 250, 250, 1000,
+#     500, 500, 500, 250, 250,
+#     500, 250, 250, 1000,
+#     500, 250, 250, 500, 250, 250,
+#     250, 250, 250, 250, 500, 250, 250,
+#     250, 250, 250, 250, 500, 250, 250
+# ]
+
+#     DO    RE    MI  FA    SOL     LA     SI
+#     C  C# D  D# E   F  F#  G  G#  A  A#  B
+#     1, 2, 3, 4, 5,  6, 7,  8, 9, 10, 11, 12, 
+
+# Tema - Dark Veader en mutran
+instrument A4h A4h A4h F4q C5q | A4h F4q C5q A4w | E5h E5h E5h F5q C5q | G#4h F4q C5q A4w |
+#BAR
+instrument C5h C4q C4q C5h G#5q G5q | F#5q F5q G5q B4q D#5h D5q C#5q | C5q B4q C5q F4q G#4h F4q G#4q
+#BAR
+
+# Intro star wars
+#Sinceramente no me se los tiempos, se escucha muy feo...
+#Lo dejare comentado
+#Introducción star wars
+#instrument D4h D4h D4h G4h D4w C4w A4h G#4h | G4h D4h  
+#BAR
+#instrument C4h A4h G#4h G4h | D4h C4h A4h C4h | G#4h
+#BAR
+#instrument D4h D4h D4h G4h | D4h C4h A4h G#4h | G4h  D4h  
+#BAR 
+#instrument C4h A4h G#4h G4h | D4h C4h A4h C4h | G#4h
+#BAR
+

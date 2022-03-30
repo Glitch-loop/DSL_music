@@ -1,0 +1,7 @@
+# Himno de la alegria 
+#Himno de la alegria en Mutran moderno
+instrument instrument
+instrument E4h E4h F4h G4h | G4h F4h E4h D4h | C4h  C4h  D4h E4h | E4h D4h D4h
+#BAR
+instrument E4h E4h F4h G4h | G4h F4h E4h D4h | C4h  C4h  D4h E4h | D4h C4h C4h 
+#BAR

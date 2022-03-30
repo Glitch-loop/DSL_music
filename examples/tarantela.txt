@@ -1,0 +1,9 @@
+#Canción de tarantela
+#Se dice que se tocaba la canción cuando alguien se moria de picadura de tarantula.
+#VOICES ian
+
+ian A3h B3h C4h B3h C4h B3h A3h B3h | C4h B3h C4h B3h A3h B3h C4h | 
+#BAR
+
+ian B3h C4h D4h E4w F4w | F4h D4w E4w E4h | C4w D4h C4h D3h C4h | D4h C4h B3h E4h G#4h B4h
+#BAR
