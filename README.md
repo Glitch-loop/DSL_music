@@ -27,20 +27,18 @@ and I test the code.
 
 ## How to use it? 🚩
 
-It is easy to use, run the file *"evidencia1.py"*, the program will run, first it will ask you for the file to play, give it a name (with or without the ".txt" extension), *take care that the file must be in the same folder as the script, otherwise the program will never find the file you are trying to play.*
+It is easy to use, run the file *"evidencia1.py"*, the program will run. 
 
-Once the program reads the file, it will start the lexical analysis and before the grammar analysis, if the program finds an error in your "code", it will warn you and tell you which line the error is on. 💬
+First it will ask you for the file to play, type it the filename (with or without the ".txt" extension), *the file must be in the same folder as the script, otherwise the program will never find the file.*
 
-If all is well, the program will play the song you encoded. 🎵
+Once the program reads the file, it will start the lexical and grammar analysis, if there is an error in your "code", it will warn you and tell you in which line the error is on. 💬
+
+If everything is fine, the program will play the song that you encoded. 🎵
 
 ## Limitations 💢
+The code will play the music if you pass it a file with the correct sysntxis (in case of error, the program will warn you), the limitation is that the program just can play with one voice (in other words, only one instrument at the time).
 
-Program limitations
-The code works, if you give the parser an input, if there is an error and if not, it plays the music you wrote in the file, the problem is thatthe program can 
-only play one instrument (or voice) in time (that means that the program ***cannot play music in parallel***).
-
-The second limitation is that the lexemes I use limit the possible musical creations (that's because it's a very simple compiler, with a ***short lexicon***).
+Another limitation is that the amount of lexeme I use, it could limit the possible musical creations (the program has a very short lexicon).
 
 ## License 📖
-
 MIT
